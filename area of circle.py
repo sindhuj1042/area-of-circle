@@ -5,6 +5,6 @@ print (a,3.14*r**2)
  
 
 #file extension
-File=input("enter number") 
-Extension_file.split(".") 
-Print("extension of file", str(extension [-1]) 
+File=input("enter file name:")
+extension=file.split(".") 
+print("extension of file:", str(extension [-1])) 
